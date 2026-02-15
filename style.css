@@ -342,36 +342,61 @@ body{
 }
 
 .avatar1{
-    width: 100px;
-    height: 100px;
+    width: 350px;
+    height: 450px;
+    border-radius: 18px;
+    
 }
 .avatar2{
+    width: 350px;
+    height: 450px;
+    border-radius: 18px;
+   
+}
+.avatar3{
+    width: 350px;
+    height: 450px;
+    border-radius: 18px;
+}
+.avatar4{
+    width: 350px;
+    height: 450px;
+    border-radius: 18px;
+   
+}
+.avatar5{
+    width: 350px;
+    height: 450px;
+    border-radius: 18px;
+    
+}
+
+.avatar6{
+    width: 350px;
+    height: 450px;
+    border-radius: 18px;
+    
+}
+
+.avatar7{
+    width: 350px;
+    height: 450px;
+    border-radius: 18px;
+    
+}
+
+.avatar8{
     width: 125px;
     height: 125px;
 }
-.avatar3{
+
+.avatar9{
     width: 150px;
-    height: 150px;
-}
-.avatar4{
-    width: 175px;
-    height: 175px;
-}
-.avatar5{
-    width: 200px;
-    height: 200px;
-}
-
-.classh1{
-    color:white;
-    font-size: 50px;
+    height: 350px;
 }
 
 
-.class:hover img {
-  filter: grayscale(0);
-  transform: scale(1.1);
-}
+
 
 .class:hover span {
   opacity: 1;
